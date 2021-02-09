@@ -1,0 +1,19 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "description": "Excellent description here!",
+  "credits": "Created by democat",
+  "logoFile": "assets/examplemod/logo.png",
+  "url": "https://democat3457.github.io/",
+  "updateUrl": "",
+  "authorList": [ "democat" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
